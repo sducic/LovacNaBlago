@@ -1,1 +1,0 @@
-Ispravljena sva mapiranja koja nisu radila u drugom domacem zadatku. Dodati trigeri i sekvence.
