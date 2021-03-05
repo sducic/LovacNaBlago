@@ -1,0 +1,82 @@
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.Form1.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.PrikaziLok.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.exe.config
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.exe
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.pdb
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.dll
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\Iesi.Collections.dll
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.dll
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.Linq.dll
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.pdb
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.xml
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\Iesi.Collections.xml
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.xml
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.Linq.xml
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.exe
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.pdb
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.prikaziTabele.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.LovacForm.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.IzgubljenoBlagoForm.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.LegendaForm.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.PredmetForm.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.ZastitaForm.resources
+C:\Users\Stefan\Desktop\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.AddLok.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.exe.config
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.exe
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.pdb
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.exe
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.pdb
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.dll
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Iesi.Collections.dll
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.dll
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.Linq.dll
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.pdb
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.xml
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Iesi.Collections.xml
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.xml
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.Linq.xml
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.AddLok.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.Form1.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.IzgubljenoBlagoForm.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.LegendaForm.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.LovacForm.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.PredmetForm.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.PrikaziLok.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.prikaziTabele.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.ZastitaForm.resources
+C:\Users\Stefan\Desktop\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csproj.GenerateResource.Cache
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.exe.config
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.exe
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Prodavnica.pdb
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.dll
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Iesi.Collections.dll
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.dll
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.Linq.dll
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.pdb
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\FluentNHibernate.xml
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\Iesi.Collections.xml
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.xml
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\bin\x64\Debug\NHibernate.Linq.xml
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csprojAssemblyReference.cache
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.AddLok.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.Form1.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.IzgubljenoBlagoForm.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.LegendaForm.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.LovacForm.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.PredmetForm.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.PrikaziLok.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.prikaziTabele.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.Properties.Resources.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.ZastitaForm.resources
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csproj.GenerateResource.cache
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csproj.CoreCompileInputs.cache
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Blago.csproj.CopyComplete
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.exe
+D:\ELFAK\III godina\SBP\bazeProjekat\III\LovacNaBlago\Prodavnica\obj\x64\Debug\Prodavnica.pdb
